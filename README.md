@@ -78,7 +78,7 @@ Incluye **API** para integración con POS, **simulador de escenarios** y **repor
 |      14 |          465477 |         299235 |
 
 
-##Autores
+## Autores
 
 Nombre: Mery Romero, José Navarro, Jennifer Lainez, Karina Cali, Ruben Acebo, Andy Rodriguez
 Email: mery.romero@uees.edu.ec - jose.navarro@uees.edu.ec - jenniffer.lainez@uees.edu.ec - karina.cali@uees.edu.ec - racebo@uees.edu.ec - andy.rodriguez@uees.edu.ec
