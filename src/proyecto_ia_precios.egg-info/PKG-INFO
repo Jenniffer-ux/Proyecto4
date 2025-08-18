@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: proyecto-ia-precios
+Version: 1.1.0
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Requires-Dist: prophet
+Requires-Dist: statsmodels
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: streamlit
+Requires-Dist: plotly

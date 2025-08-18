@@ -1,0 +1,7 @@
+,sales,sales,sales,sales,sales,sales,price,price,price,price,price,price,competitor_price,competitor_price,competitor_price,competitor_price,competitor_price,competitor_price,inventory,inventory,inventory,inventory,inventory,inventory
+,count,mean,std,min,median,max,count,mean,std,min,median,max,count,mean,std,min,median,max,count,mean,std,min,median,max
+product_line,,,,,,,,,,,,,,,,,,,,,,,,
+Bebidas,99,90.44,19.24,53,93.0,133,99,11.27,5.12,3.24,11.18,19.94,99,11.8,4.95,3.01,12.28,19.99,99,298.14,138.15,53.0,318.0,495.0
+Limpieza,104,89.05,17.46,57,91.0,124,104,11.53,4.94,3.05,12.02,19.75,104,11.94,5.12,3.17,12.23,19.81,104,280.39,132.8,59.0,285.5,499.0
+Lácteos,89,89.46,15.94,61,91.0,133,89,11.22,4.75,3.08,10.54,19.94,89,11.07,4.79,3.05,10.91,19.85,89,274.85,139.05,55.0,279.0,499.0
+Snacks,108,86.83,16.49,54,88.5,129,108,12.26,4.79,3.12,11.9,19.95,108,12.15,4.94,3.06,12.44,20.0,108,275.12,125.54,50.0,268.0,495.0

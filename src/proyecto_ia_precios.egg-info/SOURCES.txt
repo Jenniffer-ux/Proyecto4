@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/proyecto_ia_precios.egg-info/PKG-INFO
+src/proyecto_ia_precios.egg-info/SOURCES.txt
+src/proyecto_ia_precios.egg-info/dependency_links.txt
+src/proyecto_ia_precios.egg-info/requires.txt
+src/proyecto_ia_precios.egg-info/top_level.txt
+src/service/__init__.py
+src/service/recommendation.py
+tests/test_models.py
