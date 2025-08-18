@@ -78,35 +78,5 @@ Incluye **API** para integración con POS, **simulador de escenarios** y **repor
 |      14 |          465477 |         299235 |
 
 
-### Figuras EDA (añade estas imágenes a `docs/figures/` para que se muestren en GitHub)
-
-```markdown
-![Distribuciones](docs/figures/dist_histograms.png)
-![Correlación](docs/figures/corr_heatmap.png)
-![Ventas por día](docs/figures/sales_by_dow.png)
-![Ventas vs Promo](docs/figures/sales_vs_promo_box.png)
-![Ventas vs Price Gap](docs/figures/sales_vs_pricegap.png)
-```
-
-
-
----
-
-## ⚙️ Ejecución rápida
-
-```bash
-pip install -r requirements.txt
-pip install -e .
-# Dashboard
-streamlit run dashboard/streamlit_app.py
-# API
-uvicorn api.app:app --host 0.0.0.0 --port 8000
-```
-
-## Notebooks (orden)
-1) `notebooks/exploratory/01_exploratory.ipynb`  
-2) `notebooks/modeling/02_modeling.ipynb` (por defecto `LINE_OBJ='Bebidas'`)  
-3) `notebooks/evaluation/03_evaluation.ipynb`
-
 ## Licencia
 MIT
