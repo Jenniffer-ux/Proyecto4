@@ -4,9 +4,9 @@
 Optimización de precios en una cadena retail (500+ tiendas) usando **forecasting**, **elasticidad**, **Q-Learning** y un **dashboard** operativo.  
 Incluye **API** para integración con POS, **simulador de escenarios** y **reportes**.
 
-## ✅ Entregables
+## Entregables
 1. **Motor de optimización de precios** → `src/models/` + `src/service/recommendation.py`  
-2. **Dashboard de control de precios** → `dashboard/streamlit_app.py`  
+2. **Dashboard de control de precios** →  https://8501-m-s-1j66xi4b4vrwq-b.europe-west4-0.prod.colab.dev  
 3. **Simulador de escenarios** → `notebooks/evaluation/03_evaluation.ipynb`  
 4. **API para integración con POS** → `api/app.py`, `api/routes/prices.py`, `api/schemas/`  
 5. **Reportes de impacto financiero** → `docs/reporte_impacto_financiero.csv` (+ EDA en `docs/`)
