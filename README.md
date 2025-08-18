@@ -12,7 +12,7 @@ Incluye **API** para integración con POS, **simulador de escenarios** y **repor
 5. **Reportes de impacto financiero** → `docs/reporte_impacto_financiero.csv` (+ EDA en `docs/`)
 
 
-## 📈 Resultados EDA y Evaluación
+## Resultados EDA y Evaluación
 
 
 ### EDA — Resumen global
