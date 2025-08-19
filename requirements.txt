@@ -1,14 +1,33 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow
-prophet
-statsmodels
-requests
-beautifulsoup4
-fastapi
-uvicorn
-streamlit
-plotly
+# Librerías esenciales para análisis de datos y machine learning
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+statsmodels==0.14.2
+
+# Visualización de datos
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.20.0
+plotly-express==0.4.1 # Simplifica la creación de gráficos con Plotly
+
+# Series de tiempo y Deep Learning
+prophet==1.1.5 # Específicamente mencionada en la descripción de la tarea
+tensorflow==2.16.1 # Necesaria para LSTM y otros modelos de deep learning
+keras==3.3.3 # API de alto nivel para construir redes neuronales
+
+# Reinforcement Learning
+stable-baselines3==2.3.0 # Una librería popular para implementar algoritmos de RL como Q-Learning
+gymnasium==0.29.1 # Ambiente para entrenar agentes de RL
+
+# Web scraping para análisis de la competencia
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Frameworks web para la API y el dashboard
+fastapi==0.111.0 # Para crear la API de integración
+uvicorn==0.29.0 # Servidor para ejecutar FastAPI
+streamlit==1.34.0 # Para crear el dashboard de control
+
+# Librerías adicionales para gestión de archivos y variables
+python-dotenv==1.0.1 # Para manejar variables de entorno de forma segura
+openpyxl==3.1.2 # Para manejar archivos de Excel
